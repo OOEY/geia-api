@@ -8,16 +8,16 @@ ip = [
 	{
 		'id': 1,
 		'name': 'some insurance provider',
-		'address': '9818 flatlands ave',
-		'number': 9175898478,
+		'address': ' some street',
+		'number': 55555555555,
 		'services': ['sex', 'face']
 			
 	},
 	{
 		'id': 2,
 		'name': 'some insurance other  provider',
-		'address': '9820 flatlands ave',
-		'number': 9175848478,
+		'address': 'some street',
+		'number': 2222225555,
 		'services': ['sex', 'face']
 			
 	}
