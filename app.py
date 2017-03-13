@@ -29,6 +29,10 @@ def get_ip():
 	return jsonify({'providers': ip})
 
 
+@app.route('/geia/api/v1.0/provider', methods=['GET'])
+def get_provider():
+	return "this is a providers name...i think"
+
 
 if __name__ == '__main__':
 	app.run(debug=True)
